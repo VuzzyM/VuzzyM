@@ -3,7 +3,7 @@
 </p>
 
 <div id="header" align="center">
-  <img src="https://github.com/VuzzyM/VuzzyM/assets/66425682/6ede5269-b94a-4f9e-a850-0e9001b7a770" width="225"/>
+  <img src="https://github.com/VuzzyM/VuzzyM/assets/66425682/6ed699fa-b651-429f-88d0-be5cc41b5fc6" width="225"/>
 </div>
 
 _____
