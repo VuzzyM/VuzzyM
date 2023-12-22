@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=&fontSize=90"/>
+</p>
+
 <div id="header" align="center">
   <img src="https://github.com/VuzzyM/VuzzyM/assets/66425682/6ede5269-b94a-4f9e-a850-0e9001b7a770" width="225"/>
 </div>
 
-  <h2 align="center"></h2>
+_____
 
 <h4 align="center">
 Blockchain/Web3/Nodes Contributor
@@ -35,4 +39,9 @@ Hi. I'm Vuzzy, I test testnets on different blockchains, I'm interested in early
         <img src="https://img.shields.io/badge/LinkTree-black?style=for-the-badge&logo=Mirror&logoColor=grey"/>
       </a>
   </div>
-  <h2 align="center"></h2>
+  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=&fontSize=90"/>
+</p>
+
+_____
