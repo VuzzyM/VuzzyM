@@ -18,7 +18,7 @@ Hi. I'm Vuzzy, I test testnets on different blockchains, I'm interested in early
 
 <h2 align="center">Accumulated Experience</h2>
 
-<h3 align="left">Which testnet networks did I join to run validators/nodes?:</h3>
+<h3 align="left">Which testnet networks did I join to run validators/nodes:</h3>
   <ul>
     <li> <a href="https://celestia.org/" target="_blank"><strong>Celestia</strong></a>. Celestia is the First Modular Blockchain For Data Availability.</li>
     <li> <a href="https://sui.io/" target="_blank"><strong>Sui Network</strong></a>. Move L1 blockchain.</li>
